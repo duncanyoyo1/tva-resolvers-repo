@@ -1,3 +1,54 @@
+[B]Version 0.7.4[/B]
+- Fixed channel order
+
+[B]Version 0.7.3[/B]
+- Added Antenna TV
+- Added CBN
+- Added Cozi TV
+- Added Retro TV
+- Added This TV
+- Added News Net
+- Removed Celebrity Page Network
+
+[B]Version 0.7.2[/B]
+- Added Spirit TV
+- Added Court TV
+
+[B]Version 0.7.1[/B]
+- Removed Spirit TV
+- Removed RadioU
+- Removed Pluto TV Westerns
+- Fixed QVC
+- Added QVC 3
+- Added CMT Westerns
+
+[B]Version 0.7.0[/B]
+- Added support for searching Tubi
+
+[B]Version 0.6.9[/B]
+- Added France 24
+- Removed Flashback TV
+- Updated stream_plug
+
+[B]Version 0.6.8[/B]
+- Refactored to simplify get_stream_and_play function
+
+[B]Version 0.6.7[/B]
+- Added '# nosec' to suppress bandit warning since this is not used for security/cryptographic purposes.
+
+[B]Version 0.6.6[/B]
+- Added '# nosec' to suppress bandit warnings since the code is not accepting non-http schemes
+
+[B]Version 0.6.5[/B]
+- Added check for 'http' when using Urllib urlopen
+- Fixed issue with Redefining built-in 'type'
+
+[B]Version 0.6.4[/B]
+- Fixed nonetype exception
+
+[B]Version 0.6.3[/B]
+- Fixed bare exception
+
 [B]Version 0.6.2[/B]
 - Refactored Tubi TV functions a bit
 
